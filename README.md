@@ -29,7 +29,7 @@
 | [IoT Smoke Detection](https://github.com/charan0403/smoke-gas-detector-iot) | Real-time smoke/gas alert system | Arduino, MQ Sensors |
 | [Fake Image Detector](https://github.com/charan0403/fake-image-detector) | Identifies tampered/edited images | OpenCV, SciKit, Python |
 | [E-commerce Analytics](https://github.com/charan0403/ecom-analytics) | Real-time trends for business insights | Apache Kafka, Spark, Node |
-| [Charanfolio](https://github.com/charan0403/charanfolio) | My personal dev portfolio | React, TypeScript, Tailwind |
+| [Charanportfolio](https://charanreddy-27/charan-portfolio) | My personal dev portfolio | React, TypeScript, Tailwind |
 
 ---
 
