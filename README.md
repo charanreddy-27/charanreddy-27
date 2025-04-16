@@ -95,7 +95,7 @@
 ### 🐍 Sizzling the Feed
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation"/> 
+  <img src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/snake.svg" alt="Snake animation"/> 
 </p>
 
 ---
