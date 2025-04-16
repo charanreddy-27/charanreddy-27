@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanda Charan Reddy</h1>
-<h3 align="center">A passionate developer, creative problem solver, and data geek from India 🇮🇳</h3>
+<h3 align="center">A passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Explorer;Creative+Thinker+%7C+Problem+Solver;Data+Driven+Developer;Let’s+build+something+awesome!&center=true&width=500&height=50">
@@ -10,14 +10,14 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE (Data Science Specialization)** — Batch of 2026  
-- 🔬 **Research Interests**: Deep Learning, NLP, AI for HealthTech  
+- 🔬 **Research Interests**: Exploring the Future with AI, Deep Learning, IoT, and Data Science to Unveil New Frontiers in Technology and Innovation
 - 🧠 **Currently working on**:  
-  - Lung Disease Detection using DL  
+  - AI-powered Traffic Prediction with Deep Learning  
   - Fake Image Detection using OpenCV  
-  - IoT-based Smoke/Gas Sensor with Arduino  
-- 🌱 **Learning**: `Django`, `Cloud Engineering`, `MLOps`  
-- 💼 **Portfolio**: [charanfolio.vercel.app](https://charanfolio.vercel.app)  
-- 📧 **Reach me**: charanreddy04.cse@gmail.com
+  - Social Media Sentiment Analysis with NLP
+- 🌱 **Learning**: `Reinforcement Learning`, `Google Cloud AI`, `Hadoop`  
+- 💼 **Portfolio**: [charanreddy.portfolio](https://charan-reddy.vercel.app)  
+- 📧 **Reach me**: charanreddychanda@gmail.com
 
 ---
 
@@ -35,28 +35,32 @@
 
 ### 🧠 Did You Know?
 
-- 💡 The word *"algorithm"* comes from the name of Persian mathematician Al-Khwarizmi.  
-- 📊 Power BI was originally designed to be part of Excel!  
-- 🤖 The first ML program was written in 1952 and could play checkers.  
+- 🧠 “Deep Learning” algorithms are inspired by how the human brain works, mimicking neurons and synapses.
+
+- 🔍 Data Science helps uncover patterns in massive datasets, enabling businesses to make data-driven decisions.
+
+- 🤖 AI-powered models can now perform tasks once thought exclusive to human intelligence, from language translation to image recognition.
 
 ---
 
 ### 🎯 Current Focus
 
-- 📌 Building AI models for social good  
-- 📌 Strengthening fundamentals in DSA & System Design  
-- 📌 Contributing to open source & collaborating with global devs  
-- 📌 Gearing up for GSoC, Hackathons, and Kaggle Competitions  
+- 📌 Building AI-driven solutions that address global challenges and enhance decision-making.
+
+- 📌 Sharpening my skills in Machine Learning, Data Science, and Cloud Technologies.
+
+- 📌 Engaging with open-source communities to contribute to impactful projects.
+
+- 📌 Preparing for industry challenges like hackathons, real-world AI deployments, and research collaborations.
 
 ---
 
 ### 🏆 Achievements & Highlights
 
-- 🥇 **Finalist** – Lung Disease Detection Hackathon (2024)  
 - 🛠️ **Intern** – DRDO-GTRE (Control Algorithms, MATLAB/Simulink)  
-- 💬 Delivered sessions on **IoT & Image Analysis** in college  
+- 🌱 Learning – Actively working on mastering MLOps and Cloud Engineering
 - 🎓 **CGPA**: 3.39 and still aiming higher!  
-- 🎖️ **Hana Nanum Foundation Scholarship** – 2024  
+- 💡 Published Research – Paper on "Lung Disease Detection
 
 ---
 
