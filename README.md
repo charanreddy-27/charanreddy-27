@@ -60,7 +60,7 @@
 - 🛠️ **Intern** – DRDO-GTRE (Control Algorithms, MATLAB/Simulink)  
 - 🌱 Learning – Actively working on mastering MLOps and Cloud Engineering
 - 🎓 **CGPA**: 8.60 and still aiming higher!  
-- 💡 Published Research – Paper on "Lung Disease Detection
+- 💡 Published Research – Paper on "Lung Disease Detection"
 
 ---
 
