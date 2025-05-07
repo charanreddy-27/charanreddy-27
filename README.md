@@ -78,7 +78,6 @@
   <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
 ---
 
 ### 🐍 Sizzling the Feed
