@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chanda Charan Reddy</h1>
+<h1 align="center">
+  Hi, I'm chanda Charan Reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 <h3 align="center">A passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!</h3>
 
 <p align="center">
@@ -7,7 +9,9 @@
 
 ---
 
-### 👨‍💻 About Me
+
+### 👨‍💻 About Me      <img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
+
 
 - 🎓 **B.Tech CSE (Data Science Specialization)** — Batch of 2026  
 - 🔬 **Research Interests**: Exploring AI, Deep Learning, IoT, and Data Science to Unveil New Frontiers in Technology and Innovation
@@ -100,4 +104,11 @@
   <a href="https://charan-reddy.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a> 
+</p>
+<!-- Fun GIF or Art -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
