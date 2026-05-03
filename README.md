@@ -2,7 +2,7 @@
   Hi, I'm Chanda Charan Reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <h3 align="center">
-  A passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!
+  Passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!
 </h3>
 
 <p align="center">
@@ -13,71 +13,28 @@
 
 ### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
 
-- 🎓 **B.Tech CSE (Data Science Specialization)** — Batch of 2026  
-- 🔬 **Research Interests**: Exploring AI, Deep Learning, IoT, and Data Science to unveil new frontiers in technology and innovation  
-- 🧠 **Currently working on**:  
-  - AI-powered Traffic Prediction with Deep Learning  
-  - Fake Image Detection using OpenCV  
-  - Social Media Sentiment Analysis with NLP  
+🎓 B.Tech CSE (Data Science), 2026 | CGPA: 8.64  
+
+💻 Full-Stack Developer + AI Engineer  
+Building scalable web apps and production-ready AI systems  
+
+🚀 Experience:  
+• Software Developer Intern @ IMPRESSNO (SaaS, APIs, Cloud, Performance Optimization)  
+• Research Intern @ DRDO (aero-engine control systems & validation)  
+
+🛠 Currently Building:  
+• AI Interview Prep Platform (voice + LLM integration)  
+• RAG-based Enterprise Query System  
+• AI-powered Meeting & Collaboration Tools  
+
+⚡ Tech: React, Next.js, Node.js, AWS, Docker, FastAPI, OpenAI, LangChain  
+
+📌 Published Research: Deep Learning model for lung disease detection (97.18% accuracy)  
 - 🌱 **Learning**: `Reinforcement Learning`, `Google Cloud AI`, `Hadoop`  
 - 💼 **Portfolio**: [charanreddy.portfolio](https://charan-reddy.vercel.app)  
 - 📧 **Reach me**: charanreddychanda@gmail.com
 
 ---
-
-### 🚀 Projects Showcase
-
-<p align="center">
-  <img src="https://github.com/charanreddy-27/charanreddy-27/blob/main/assets/projects-animation.gif" alt="Projects Animation" width="600">
-</p>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>💡 Project</th>
-      <th>🚀 Description</th>
-      <th>🛠️ Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/charan0403/lung-disease-detector">Lung Disease Detection</a></td>
-      <td>AI model to detect TB, COVID, Pneumonia, etc.</td>
-      <td>TensorFlow, CNN, Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charan0403/smoke-gas-detector-iot">IoT Smoke Detection</a></td>
-      <td>Real-time smoke/gas alert system</td>
-      <td>Arduino, MQ Sensors</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charan0403/fake-image-detector">Fake Image Detector</a></td>
-      <td>Identifies tampered/edited images</td>
-      <td>OpenCV, SciKit, Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charan0403/ecom-analytics">E-commerce Analytics</a></td>
-      <td>Real-time trends for business insights</td>
-      <td>Apache Kafka, Spark, Node</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charanreddy-27/charan-portfolio">Charanportfolio</a></td>
-      <td>My personal dev portfolio</td>
-      <td>React, TypeScript, Tailwind</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🧠 Fun Facts
-
-- 🧠 **Deep Learning** algorithms mimic how the human brain works, using neurons and synapses.  
-- 🔍 Data Science uncovers patterns in massive datasets, enabling data-driven decisions.  
-- 🤖 AI-powered models now perform tasks once exclusive to human intelligence, like language translation and image recognition.
-
----
-
 ### 🎯 Current Focus
 
 - 📌 Building AI-driven solutions that address global challenges and enhance decision-making.  
@@ -91,35 +48,64 @@
 
 - 🛠️ **Intern** – DRDO-GTRE (Control Algorithms, MATLAB/Simulink)  
 - 🌱 Learning – Actively working on mastering MLOps and Cloud Engineering  
-- 🎓 **CGPA**: 8.60 and aiming higher!  
 - 📜 Published Research – Paper on "Lung Disease Detection"
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 👨‍💻 Tools and Frameworks  
+<div align="center">
+<table>
+<tr><td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
-</p>
+### Frontend  
+  <div align="center">  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+  </div>
+  
+  </td><td valign="top" width="33%">
+  
+  ### Backend  
+  <div align="center">  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+  </div>
+  
+  </td><td valign="top" width="33%">
+  
+  ### Others  
+  <div align="center">  
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+  <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+  </div>
 
+</td></tr>
+</table>  
+</div>
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanreddy-27&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanreddy-27&show_icons=true&theme=dark&card_width=700&card_height=200" alt="GitHub Stats"/>
   <br/> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=charanreddy-27&theme=tokyonight" alt="GitHub Streak Stats"/>
   <br/> 
@@ -127,12 +113,19 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
 
 ### 🐍 Sizzling the Feed
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/snake.svg" alt="Snake animation"/> 
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph.svg">
+</picture>
+</div> 
 
 ---
 
