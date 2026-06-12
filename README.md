@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
 
-🎓 B.Tech CSE (Data Science), 2026 | CGPA: 8.64  
+🎓 B.Tech CSE (Data Science), 2026 | CGPA: 8.9  
 
 💻 Full-Stack Developer + AI Engineer  
 Building scalable web apps and production-ready AI systems  
