@@ -1,152 +1,120 @@
-<h1 align="center">
-  Hi, I'm Chanda Charan Reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-<h3 align="center">
-  Passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Explorer;Creative+Thinker+%7C+Problem+Solver;Data+Driven+Developer;Let’s+build+something+awesome!&center=true&width=500&height=50">
-</p>
-
----
-
-### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
-
-🎓 B.Tech CSE (Data Science), 2026 | CGPA: 8.9  
-
-💻 Full-Stack Developer + AI Engineer  
-Building scalable web apps and production-ready AI systems  
-
-🚀 Experience:  
-• Software Developer Intern @ IMPRESSNO (SaaS, APIs, Cloud, Performance Optimization)  
-• Research Intern @ DRDO (aero-engine control systems & validation)  
-
-🛠 Currently Building:  
-• AI Interview Prep Platform (voice + LLM integration)  
-• RAG-based Enterprise Query System  
-• AI-powered Meeting & Collaboration Tools  
-
-⚡ Tech: React, Next.js, Node.js, AWS, Docker, FastAPI, OpenAI, LangChain  
-
-📌 Published Research: Deep Learning model for lung disease detection (97.18% accuracy)  
-- 🌱 **Learning**: `Reinforcement Learning`, `Google Cloud AI`, `Hadoop`  
-- 💼 **Portfolio**: [charanreddy.portfolio](https://charan-reddy.vercel.app)  
-- 📧 **Reach me**: charanreddychanda@gmail.com
-
----
-### 🎯 Current Focus
-
-- 📌 Building AI-driven solutions that address global challenges and enhance decision-making.  
-- 📌 Sharpening my skills in Machine Learning, Data Science, and Cloud Technologies.  
-- 📌 Engaging with open-source communities to contribute to impactful projects.  
-- 📌 Preparing for industry challenges like hackathons, real-world AI deployments, and research collaborations.
-
----
-
-### 🏆 Achievements & Highlights
-
-- 🛠️ **Intern** – DRDO-GTRE (Control Algorithms, MATLAB/Simulink)  
-- 🌱 Learning – Actively working on mastering MLOps and Cloud Engineering  
-- 📜 Published Research – Paper on "Lung Disease Detection"
-
----
-
-## 👨‍💻 Tools and Frameworks  
 <div align="center">
-<table>
-<tr><td valign="top" width="33%">
 
-### Frontend  
-  <div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-  </div>
-  
-  </td><td valign="top" width="33%">
-  
-  ### Backend  
-  <div align="center">  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-  </div>
-  
-  </td><td valign="top" width="33%">
-  
-  ### Others  
-  <div align="center">  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-  <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-  </div>
-
-</td></tr>
-</table>  
-</div>
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=charanreddy-27&show_icons=true&theme=dark&card_width=700&card_height=200" alt="GitHub Stats"/>
-  <br/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=charanreddy-27&theme=tokyonight" alt="GitHub Streak Stats"/>
-  <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
-
-### 🐍 Sizzling the Feed
-
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Chanda Charan Reddy — builds production LLM systems. Bengaluru, India." src="./assets/hero-dark.svg" width="100%">
 </picture>
-</div> 
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanreddy.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.charanreddy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandacharanreddy/)
+[![Book a call](https://img.shields.io/badge/Book_a_call-30_min-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/charanreddy-27/30min)
+[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanreddychanda@gmail.com)
+
+</div>
+<img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
+---
+
+I build systems that turn messy input into something a machine can execute — LLM pipelines, agents, and the infrastructure around them. Springer-published in deep learning; before that I wrote real-time control code for aero-engines at DRDO.
+
+Most of what's below was built from scratch on purpose. A database engine without an ORM, a neural network without a framework, a CRDT editor without a backend that can read your data. It's the fastest way I know to actually understand a thing.
+
+<br>
+
+## Currently
+
+**AI Intern · Infineon Technologies** — Bengaluru, India · Mar 2026 – Present
+
+Building an LLM system that converts multimodal input (text, sketches, diagrams) into executable **BPMN 2.0** workflow models, deployed on a Red Hat OpenShift–based enterprise hybrid cloud.
+
+<br>
+
+## Featured work
+
+| | |
+|---|---|
+| **[QueryForge](https://github.com/charanreddy-27/QueryForge)** · [live ↗](https://queryforge.charanreddy.dev)<br>A SQL database engine written from scratch — B+tree storage, write-ahead logging, and a Volcano-model executor.<br><sub>`Python` `TypeScript` `B+tree` `WAL`</sub> | **[Synthesis](https://github.com/charanreddy-27/Synthesis)** · [live ↗](https://synthesis-charan.vercel.app)<br>An autonomous multi-agent research engine that plans, searches, and synthesises a cited answer.<br><sub>`TypeScript` `LLM agents` `RAG`</sub> |
+| **[Tracewave](https://github.com/charanreddy-27/tracewave)**<br>Real-time streaming anomaly detection — SSE ingestion, one-second tumbling windows, and an ensemble of three online detectors with an explainable "why".<br><sub>`Python` `Redis Streams` `TimescaleDB` `Prometheus`</sub> | **[Synapse](https://github.com/charanreddy-27/synapse)** · [live ↗](https://synapse-charan.vercel.app)<br>A local-first, end-to-end-encrypted collaborative canvas. The relay only ever sees ciphertext.<br><sub>`Next.js` `Yjs CRDT` `AES-256-GCM`</sub> |
+| **[NeuroForge](https://github.com/charanreddy-27/neuroforge)** · [live ↗](https://neuroforge-charan.vercel.app)<br>A neural network — forward pass, backprop, optimizers — hand-written in vanilla JS with zero dependencies. Gradient check agrees to ~2e-10.<br><sub>`JavaScript` `Backprop` `Canvas`</sub> | **[MeetEase](https://github.com/charanreddy-27/MeetEase)** · [live ↗](https://meet-ease-charan.vercel.app)<br>AI-native video conferencing with scheduling, recordings, and real-time rooms.<br><sub>`Next.js` `TypeScript` `Stream SDK`</sub> |
+
+<sub>More on the [portfolio ↗](https://www.charanreddy.dev) · everything else lives in [repositories ↗](https://github.com/charanreddy-27?tab=repositories)</sub>
+
+<br>
+
+## Research
+
+**Lung disease detection from chest X-rays** — a hybrid ResNet50 architecture reaching **97.18%** accuracy. Published by Springer.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2414--6717-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2414-6717)
+
+<br>
+
+## Stack
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & Data** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Platform** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+<br>
+
+## Background
+
+- **B.Tech, Computer Science (Data Science)** · Christ University, Bengaluru · CGPA 8.9/10
+- **1st place, ICE Tech 2025** — national hackathon
+- **Department Head, CSE Student Body** — led initiatives for 400+ students · **Student Council Head**
+- **Research Intern, DRDO** — algorithms and test automation for aero-engine control systems
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/charanreddy-27">
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charanreddy-27&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=10B981&text_color=8B949E&hide_title=true&include_all_commits=true">
+</a>
+<a href="https://github.com/charanreddy-27">
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=8B949E&langs_count=8">
+</a>
+
+</div>
 
 ---
 
-### 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/chandacharanreddy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="mailto:charanreddychanda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://charan-reddy.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a> 
-</p>
+**Open to conversations about LLM systems, agents, and developer tooling.**
 
-<!-- Fun GIF or Art -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+[charanreddy.dev](https://www.charanreddy.dev) · [LinkedIn](https://www.linkedin.com/in/chandacharanreddy/) · [charanreddychanda@gmail.com](mailto:charanreddychanda@gmail.com)
+
+</div>
