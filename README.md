@@ -13,8 +13,10 @@
 [![Book a call](https://img.shields.io/badge/Book_a_call-30_min-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/charanreddy-27/30min)
 [![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanreddychanda@gmail.com)
 
+<sub><img src="https://komarev.com/ghpvc/?username=charanreddy-27&label=profile+views&color=A78BFA&style=flat-square" alt="Profile views"></sub>
+
 </div>
-<img src="https://komarev.com/ghpvc/?username=charanreddy-27&color=ff69b4&style=flat-square" alt="Profile Views"/>
+
 ---
 
 I build systems that turn messy input into something a machine can execute — LLM pipelines, agents, and the infrastructure around them. Springer-published in deep learning; before that I wrote real-time control code for aero-engines at DRDO.
@@ -98,14 +100,38 @@ Building an LLM system that converts multimodal input (text, sketches, diagrams)
 
 <br>
 
+## By the numbers
+
+<!--
+  These point at the shared public github-readme-stats instance, which is rate-limited
+  across thousands of users ("API rate limit exceeded" on the card = that, not a bug).
+  To fix permanently: self-host a fork on Vercel and swap the two
+  `github-readme-stats.vercel.app` hostnames below for your own instance.
+  Full steps: .github/PROFILE_SETUP.md
+  `hide_rank=true` is deliberate — the letter grade is weighted by stars and followers,
+  so it measures repo popularity rather than how much you actually build.
+-->
+
 <div align="center">
 
-<a href="https://github.com/charanreddy-27">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charanreddy-27&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=10B981&text_color=8B949E&hide_title=true&include_all_commits=true">
-</a>
-<a href="https://github.com/charanreddy-27">
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=8B949E&langs_count=8">
-</a>
+<img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=charanreddy-27&hide_border=true&background=00000000&border=00000000&stroke=1F2937&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&currStreakNum=A78BFA&sideLabels=8B949E&sideNums=8B949E&dates=64748B&card_width=1180">
+
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charanreddy-27&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=8B949E&card_width=500">
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=8B949E&card_width=500">
+
+</div>
+
+<br>
+
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/github-snake.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/github-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
