@@ -6,14 +6,12 @@
   <img alt="Chanda Charan Reddy — builds production LLM systems. Bengaluru, India." src="./assets/hero-dark.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-charanreddy.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.charanreddy.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandacharanreddy/)
-[![Book a call](https://img.shields.io/badge/Book_a_call-30_min-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/charanreddy-27/30min)
-[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanreddychanda@gmail.com)
-
-<sub><img src="https://komarev.com/ghpvc/?username=charanreddy-27&label=profile+views&color=A78BFA&style=flat-square" alt="Profile views"></sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-charanreddy.dev-0A0B0E?style=for-the-badge&logo=vercel&logoColor=E8913A&labelColor=0A0B0E)](https://www.charanreddy.dev)
+[![Book a call](https://img.shields.io/badge/Book_a_call-30_min-0A0B0E?style=for-the-badge&logo=googlecalendar&logoColor=E8913A&labelColor=0A0B0E)](https://cal.com/charanreddy-27/30min)
+[![Email](https://img.shields.io/badge/Email-say_hi-0A0B0E?style=for-the-badge&logo=gmail&logoColor=C9563C&labelColor=0A0B0E)](mailto:charanreddychanda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A0B0E?style=for-the-badge&logo=linkedin&logoColor=E8913A&labelColor=0A0B0E)](https://www.linkedin.com/in/chandacharanreddy/)
 
 </div>
 
@@ -49,45 +47,19 @@ Building an LLM system that converts multimodal input (text, sketches, diagrams)
 
 **Lung disease detection from chest X-rays** — a hybrid ResNet50 architecture reaching **97.18%** accuracy. Published by Springer.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2414--6717-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2414-6717)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2414--6717-0A0B0E?style=flat-square&logo=orcid&logoColor=E8913A&labelColor=0A0B0E)](https://orcid.org/0009-0003-2414-6717)
 
 <br>
 
 ## Stack
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**AI / ML** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Backend & Data** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Platform** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+|  |  |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
+| **AI / ML** | PyTorch · TensorFlow · LangChain · scikit-learn · Pandas |
+| **Backend & data** | FastAPI · Node.js · PostgreSQL · Redis · MongoDB · TimescaleDB |
+| **Frontend** | React · Next.js · Tailwind |
+| **Platform** | Docker · Kubernetes · OpenShift · AWS · GitHub Actions · Grafana |
 
 <br>
 
@@ -100,32 +72,28 @@ Building an LLM system that converts multimodal input (text, sketches, diagrams)
 
 <br>
 
-## By the numbers
+## Activity
 
 <!--
-  These point at the shared public github-readme-stats instance, which is rate-limited
-  across thousands of users ("API rate limit exceeded" on the card = that, not a bug).
-  To fix permanently: self-host a fork on Vercel and swap the two
-  `github-readme-stats.vercel.app` hostnames below for your own instance.
-  Full steps: .github/PROFILE_SETUP.md
-  `hide_rank=true` is deliberate — the letter grade is weighted by stars and followers,
-  so it measures repo popularity rather than how much you actually build.
+  Both images below are generated by .github/workflows/refresh-profile.yml and
+  published to the `output` branch every 12 hours.
+
+  The stats card is rendered by tools/render_stats.py inside this repo's own
+  Actions run, using the automatic GITHUB_TOKEN. It deliberately does not use
+  github-readme-stats or streak-stats: those are shared public instances whose
+  token budget is exhausted by thousands of other profiles, which is why the
+  old cards kept rendering "API rate limit exceeded" instead of numbers.
 -->
 
 <div align="center">
 
-<img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=charanreddy-27&hide_border=true&background=00000000&border=00000000&stroke=1F2937&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&currStreakNum=A78BFA&sideLabels=8B949E&sideNums=8B949E&dates=64748B&card_width=1180">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/stats-light.svg">
+  <img alt="GitHub activity — contributions, streaks, stars and language mix" src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/stats-dark.svg" width="100%">
+</picture>
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charanreddy-27&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=8B949E&card_width=500">
-<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanreddy-27&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=8B949E&card_width=500">
-
-</div>
-
-<br>
-
-## Contributions
-
-<div align="center">
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/github-snake-dark.svg">
@@ -142,5 +110,7 @@ Building an LLM system that converts multimodal input (text, sketches, diagrams)
 **Open to conversations about LLM systems, agents, and developer tooling.**
 
 [charanreddy.dev](https://www.charanreddy.dev) · [LinkedIn](https://www.linkedin.com/in/chandacharanreddy/) · [charanreddychanda@gmail.com](mailto:charanreddychanda@gmail.com)
+
+<sub><img src="https://komarev.com/ghpvc/?username=charanreddy-27&label=profile+views&color=E8913A&style=flat-square" alt="Profile views"></sub>
 
 </div>
