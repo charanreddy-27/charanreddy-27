@@ -1,0 +1,60 @@
+name: Refresh profile assets
+
+# Builds every generated asset in one job and publishes them together.
+#
+# This has to be a single workflow with a single push step. crazy-max/ghaction-
+# github-pages *replaces* the contents of the target branch rather than merging
+# into it, so two workflows publishing to `output` will silently delete each
+# other's files — which is what the previous snake.yml + pacman.yml pair did on
+# every run.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Colours mirror tools/palettes.py ("ember"). The first colour in
+      # color_dots is the *empty* cell — on dark it must stay a visible slate,
+      # because anything close to GitHub's #0D1117 background makes the grid
+      # look broken rather than empty.
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=A33A22&color_dots=#EDEAE4,#F0CFA0,#E0A860,#C4791F,#8A5210
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=C9563C&color_dots=#22262E,#5C4A2E,#8A6524,#C07A1E,#E8913A
+
+      # Self-hosted stats card. Uses the automatic GITHUB_TOKEN, so there is no
+      # personal access token to create and no Vercel instance to keep alive.
+      - name: Generate stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+          PROFILE_PALETTE: ember
+        run: python tools/render_stats.py ember dist
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Refresh profile assets [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
