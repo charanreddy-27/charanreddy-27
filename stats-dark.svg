@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 300" width="1180" height="300" fill="none" role="img" aria-label="GitHub statistics for charanreddy-27">
+<title>GitHub statistics for charanreddy-27</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0B0E"/><stop offset=".55" stop-color="#111318"/><stop offset="1" stop-color="#0A0B0E"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1178" height="298" rx="16" fill="url(#bg)" stroke="#23262E" stroke-width="1"/>
+<text x="40" y="46" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#EDEAE4">GitHub activity</text>
+<text x="1140" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#5C594F">generated 2026-09-05 · self-hosted</text>
+<line x1="40" y1="64" x2="1140" y2="64" stroke="#23262E" stroke-width="1"/>
+<text x="40" y="108" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#E8913A">1.1k</text>
+<text x="40" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Contributions</text>
+<text x="40" y="145" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">PAST YEAR</text>
+<text x="236" y="108" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#E8913A">0</text>
+<text x="236" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Current streak</text>
+<text x="236" y="145" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">DAYS</text>
+<text x="432" y="108" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#E8913A">16</text>
+<text x="432" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Longest streak</text>
+<text x="432" y="145" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">DAYS</text>
+<text x="40" y="204" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#EDEAE4">11</text>
+<text x="40" y="224" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Stars earned</text>
+<text x="40" y="241" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">OWN REPOS</text>
+<text x="236" y="204" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#EDEAE4">50</text>
+<text x="236" y="224" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Public repos</text>
+<text x="236" y="241" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">NON-FORK</text>
+<text x="432" y="204" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#EDEAE4">7</text>
+<text x="432" y="224" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8C877D">Followers</text>
+<text x="432" y="241" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">SINCE 2023</text>
+<line x1="632" y1="88" x2="632" y2="260" stroke="#23262E" stroke-width="1"/>
+<text x="664" y="106" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#EDEAE4">Language mix</text>
+<text x="1140" y="106" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" letter-spacing=".6" fill="#5C594F">BY BYTES, OWN REPOS</text>
+<text x="664" y="136" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDEAE4" opacity=".92">Jupyter Notebook</text>
+<text x="1140" y="136" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" fill="#8C877D">45.4%</text>
+<rect x="664" y="143" width="476" height="6" rx="3" fill="#23262E"/>
+<rect x="664" y="143" width="216.0" height="6" rx="3" fill="#E8913A" opacity="1.0"/>
+<text x="664" y="166" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDEAE4" opacity=".92">TypeScript</text>
+<text x="1140" y="166" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" fill="#8C877D">23.1%</text>
+<rect x="664" y="173" width="476" height="6" rx="3" fill="#23262E"/>
+<rect x="664" y="173" width="109.9" height="6" rx="3" fill="#E8913A" opacity="0.78"/>
+<text x="664" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDEAE4" opacity=".92">Python</text>
+<text x="1140" y="196" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" fill="#8C877D">12.2%</text>
+<rect x="664" y="203" width="476" height="6" rx="3" fill="#23262E"/>
+<rect x="664" y="203" width="57.9" height="6" rx="3" fill="#E8913A" opacity="0.58"/>
+<text x="664" y="226" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDEAE4" opacity=".92">JavaScript</text>
+<text x="1140" y="226" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" fill="#8C877D">9.8%</text>
+<rect x="664" y="233" width="476" height="6" rx="3" fill="#23262E"/>
+<rect x="664" y="233" width="46.6" height="6" rx="3" fill="#E8913A" opacity="0.42"/>
+<text x="664" y="256" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#EDEAE4" opacity=".92">HTML</text>
+<text x="1140" y="256" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" fill="#8C877D">4.6%</text>
+<rect x="664" y="263" width="476" height="6" rx="3" fill="#23262E"/>
+<rect x="664" y="263" width="22.0" height="6" rx="3" fill="#E8913A" opacity="0.3"/>
+</svg>
